@@ -1,7 +1,6 @@
 <template>
   <div>
     <Scrollama
-      id="basic"
       :offset="0.6"
       @step-enter="stepEnterHandler"
       @step-exit="stepExitHandler"

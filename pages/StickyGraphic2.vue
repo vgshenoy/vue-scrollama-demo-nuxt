@@ -6,7 +6,6 @@
       {{ activeStepId }}
     </div>
     <Scrollama
-      id="sticky-graphic-2"
       :offset="0.6"
       class="flex-1"
       @step-enter="stepEnterHandler"
