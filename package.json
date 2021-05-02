@@ -1,0 +1,24 @@
+{
+  "name": "demo-nuxt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.11.1",
+    "intersection-observer": "^0.12.0",
+    "nuxt": "^2.15.4",
+    "scrollama": "^2.2.2",
+    "vue-scrollama": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/eslint-config": "^6.0.0",
+    "@nuxtjs/tailwindcss": "^4.0.3",
+    "eslint": "^7.25.0",
+    "postcss": "^8.2.13"
+  }
+}
