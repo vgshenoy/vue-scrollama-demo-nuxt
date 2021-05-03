@@ -2,7 +2,6 @@
   <div>
     <Scrollama
       :offset="0.6"
-      :progress="true"
       @step-progress="stepProgressHandler"
     >
       <div
